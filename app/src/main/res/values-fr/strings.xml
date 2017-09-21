@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bienvenue</string>
+    <string name="deitel_logo">Pouces vers le haut</string>
+    <string name="welcome">Pouce leve</string>
+    <string name="someText">Quoi de neuf</string>
+</resources>
